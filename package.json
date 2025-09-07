@@ -1,0 +1,8 @@
+{
+  "name": "othello-game",
+  "version": "1.0.0",
+  "description": "Othello game with AI difficulty levels",
+  "scripts": {
+    "test": "echo \"No tests implemented\""
+  }
+}
